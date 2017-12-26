@@ -24118,12 +24118,9 @@
     },
     "dependencies": {
       "Microsoft.AppCenter.Analytics": "1.1.0",
+      "Microsoft.AppCenter.Crashes": "1.1.0",
       "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
-      "Xamarin.Forms": "2.3.4.224",
-      "Microsoft.AppCenter.Crashes": {
-        "target": "Package",
-        "version": "[1.1.0, )"
-      }
+      "Xamarin.Forms": "2.3.4.224"
     },
     "frameworks": {
       "uap10.0": {}
